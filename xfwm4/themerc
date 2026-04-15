@@ -1,0 +1,16 @@
+active_color_1=#3c38386
+inactive_color_1=#282828
+active_border_color=#282828
+active_text_color=#ebdbb2
+inactive_text_color=#ebdbb2
+button_layout=O|HMC
+button_offset=1
+button_spacing=1
+full_width_title=true
+inactive_border_color=#282828
+maximized_offset=1
+show_app_icon=true
+title_alignment=left
+title_horizontal_offset=2
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
